@@ -1,0 +1,10 @@
+{
+  "links": [
+    {
+      "file": "lyntersh",
+      "dest": "/usr/bin",
+      "name": "lyntersh",
+      "executable": true
+    }
+  ]
+}
