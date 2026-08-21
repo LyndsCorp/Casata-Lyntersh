@@ -1,0 +1,21 @@
+{
+  "name": "apt-random",
+  "version": "https://raw.githubusercontent.com/LyndsCorp/Casata-Lyntersh/refs/heads/main/VERSION",
+  "apt": [],
+  "pacman": [],
+  "dnf": [],
+  "casata": [],
+  "pip": [],
+  "size": "40,2 KiB",
+  "description": "Lyntersh, Lynter pero para scripts de shell. Lynter es Lynds Interface.",
+  "usage": "Ejecuta lyntersh --help para recibir ayuda. Puedes crear diálogos gráficos para que el usuario ponga valores."
+  
+  "project": "LYNDS Project",
+  "is_open_source": true,
+  "source_code": "https://github.com/LyndsCorp/Lyntersh",
+  "license": "MIT License",
+  "origin": "Lynds Corp.",
+  "developer": "David Baña Szymaniak",
+  "copyright_title": "David Baña Szymaniak",
+  "copyright_year": 2026
+}
