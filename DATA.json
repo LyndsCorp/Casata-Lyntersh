@@ -8,7 +8,7 @@
   "pip": [],
   "size": "40,2 KiB",
   "description": "Lyntersh, Lynter pero para scripts de shell. Lynter es Lynds Interface.",
-  "usage": "Ejecuta lyntersh --help para recibir ayuda. Puedes crear diálogos gráficos para que el usuario ponga valores."
+  "usage": "Ejecuta lyntersh --help para recibir ayuda. Puedes crear diálogos gráficos para que el usuario ponga valores.",
   
   "project": "LYNDS Project",
   "is_open_source": true,
