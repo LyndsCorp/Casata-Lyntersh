@@ -1,5 +1,5 @@
 # Lyntersh
-Toolkid como Zenity pero más ligero y limitado. Lynter pero para shell.
+Toolkit como Zenity pero más ligero y limitado. Lynter pero para shell.
 
 Código fuente: https://github.com/LyndsCorp/Lyntersh
 
